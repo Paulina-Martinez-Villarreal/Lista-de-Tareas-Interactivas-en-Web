@@ -18,10 +18,10 @@ Este proyecto es una aplicación de lista de tareas, diseñada para ayudar a los
 
 ## **Cómo Ejecutar el Proyecto**
 
-- **Clona este repositorio en tu máquina local.
-- **Abre el archivo index.html en tu navegador.
-- **Comienza a agregar y gestionar tus tareas.
+1. Clona este repositorio en tu máquina local.
+2. Abre el archivo index.html en tu navegador.
+3. Comienza a agregar y gestionar tus tareas.
 
-Capturas de Pantalla
+## **Capturas de Pantalla**
 ![image](https://github.com/user-attachments/assets/6542b92c-6518-4af2-8819-72a7bf84b5d7)
 
