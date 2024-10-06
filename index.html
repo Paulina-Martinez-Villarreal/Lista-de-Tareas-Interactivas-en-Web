@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Tareas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Lista de Tareas</h1>
+
+    <!-- Formulario para agregar tareas -->
+    <form id="taskForm">
+        <input type="text" id="newTask" placeholder="Escribe una nueva tarea" required>
+        <button type="submit">Agregar Tarea</button>
+    </form>
+
+    <!-- Mensaje de error -->
+    <p id="errorMessage" style="color: red; display: none;">Por favor, ingresa una tarea.</p>
+
+    <!-- Lista de tareas -->
+    <ul id="taskList"></ul>
+
+    <!-- Botón para eliminar todas las tareas -->
+    <button id="clearAllBtn" style="display: none;">Eliminar Todas las Tareas</button>
+
+    <script src="app.js"></script>
+</body>
+</html>

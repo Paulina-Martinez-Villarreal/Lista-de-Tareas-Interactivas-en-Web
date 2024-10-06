@@ -1,0 +1,122 @@
+/* General */
+/* Estilos para el cuerpo (body) */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background: linear-gradient(to right, #a1c4fd, #d8f3ff); /* Gradiente de azul suave a blanco c2e9fb*/
+}
+
+
+/* Título */
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* Formulario */
+form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    width: 60%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-left: 10px;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+/* Lista de tareas */
+ul {
+    list-style-type: none;
+    padding: 0;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+li {
+    background-color: white;
+    padding: 15px;
+    margin: 5px 0;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Botón de eliminar */
+.delete-btn {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.delete-btn:hover {
+    background-color: darkred;
+}
+
+/* Botón para eliminar todas las tareas */
+#clearAllBtn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#clearAllBtn:hover {
+    background-color: #c82333;
+}
+
+/* Tareas completadas */
+.completed {
+    text-decoration: line-through;
+    color: grey;
+}
+
+/* Estilos para pantallas pequeñas */
+@media (max-width: 600px) {
+    input[type="text"] {
+        width: 80%;
+    }
+
+    button {
+        padding: 10px;
+        font-size: 14px;
+    }
+
+    ul {
+        width: 100%;
+    }
+}
+
+/* Estilos para pantallas medianas */
+@media (max-width: 900px) {
+    input[type="text"] {
+        width: 70%;
+    }
+}
