@@ -1,7 +1,5 @@
 # **Lista-de-Tareas-Interactivas-en-Web**
-Lista de Tareas Interactivas en Web
 
-Lista de Tareas
 ## **Descripción**
 Este proyecto es una aplicación de lista de tareas, diseñada para ayudar a los usuarios a gestionar sus tareas de manera eficiente. Permite a los usuarios agregar, eliminar y marcar tareas como completadas. La aplicación utiliza localStorage para guardar las tareas, lo que garantiza que los datos persistan incluso después de recargar la página.
 
