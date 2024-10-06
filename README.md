@@ -25,3 +25,6 @@ Este proyecto es una aplicación de lista de tareas, diseñada para ayudar a los
 ## **Capturas de Pantalla**
 ![image](https://github.com/user-attachments/assets/6542b92c-6518-4af2-8819-72a7bf84b5d7)
 
+![image](https://github.com/user-attachments/assets/2e964c02-3c56-4aa1-811f-49569d5fd1fe)
+
+
