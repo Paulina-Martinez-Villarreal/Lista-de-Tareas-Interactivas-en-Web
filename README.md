@@ -29,5 +29,8 @@ Este proyecto es una aplicación de lista de tareas, diseñada para ayudar a los
 
 ![image](https://github.com/user-attachments/assets/bbef8ec6-f820-4237-acfc-5c2eb191a492)
 
+![image](https://github.com/user-attachments/assets/06b6d3b6-ca8e-4da5-bc16-607b064bf322)
+
+
 
 
